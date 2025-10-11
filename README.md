@@ -74,7 +74,7 @@ Building the Future, One Line of Code at a Time
 
 </div>
 
-```javascript
+javascript
 const ashwini = {
     name: "Ashwini Jaiswal",
     title: "Full-Stack Developer & Creative Technologist",
@@ -123,7 +123,7 @@ const ashwini = {
 };
 
 console.log(ashwini.getInTouch());
-```
+
 
 <div align="center">
 
@@ -193,7 +193,7 @@ console.log(ashwini.getInTouch());
   <img src="https://skillicons.dev/icons?i=redux" width="65" height="65" alt="Redux" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙ Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
@@ -204,7 +204,7 @@ console.log(ashwini.getInTouch());
   <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="GraphQL" />
 </p>
 
-### 🗄️ Databases & Cloud
+### 🗄 Databases & Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
@@ -216,7 +216,7 @@ console.log(ashwini.getInTouch());
   <img src="https://skillicons.dev/icons?i=gcp" width="65" height="65" alt="Google Cloud" />
 </p>
 
-### 🛠️ DevOps & Tools
+### 🛠 DevOps & Tools
 
 <p>
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
@@ -253,25 +253,25 @@ console.log(ashwini.getInTouch());
 <tr>
 <td>
 
-**Frontend Development** 🎨  
+*Frontend Development* 🎨  
 ![](https://progress-bar.dev/95/?scale=100&title=Expert&width=400&color=00D9FF)
 
-**Backend Development** ⚙️  
+*Backend Development* ⚙  
 ![](https://progress-bar.dev/90/?scale=100&title=Expert&width=400&color=FF6B6B)
 
-**UI/UX Design** 🎭  
+*UI/UX Design* 🎭  
 ![](https://progress-bar.dev/88/?scale=100&title=Advanced&width=400&color=FFD700)
 
 </td>
 <td>
 
-**Database Management** 🗄️  
+*Database Management* 🗄  
 ![](https://progress-bar.dev/85/?scale=100&title=Advanced&width=400&color=00FF00)
 
-**Cloud & DevOps** ☁️  
+*Cloud & DevOps* ☁  
 ![](https://progress-bar.dev/80/?scale=100&title=Advanced&width=400&color=9C27B0)
 
-**Mobile Development** 📱  
+*Mobile Development* 📱  
 ![](https://progress-bar.dev/75/?scale=100&title=Intermediate&width=400&color=FF9800)
 
 </td>
@@ -369,17 +369,17 @@ console.log(ashwini.getInTouch());
 ### 🌟 [Team Blitz](https://teamblitz.netlify.app/)
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
 
-**Next-Generation Project Management Platform**
+*Next-Generation Project Management Platform*
 
 A comprehensive solution for modern teams with real-time collaboration, advanced analytics, and intelligent task management.
 
-**🔧 Tech Stack:**
-- ⚛️ React.js, Redux, Material-UI
+*🔧 Tech Stack:*
+- ⚛ React.js, Redux, Material-UI
 - 🟢 Node.js, Express.js, Socket.io
 - 🍃 MongoDB, Redis
-- ☁️ AWS, Docker, Nginx
+- ☁ AWS, Docker, Nginx
 
-**✨ Key Features:**
+*✨ Key Features:*
 - 🔄 Real-time collaboration & updates
 - 📊 Advanced analytics dashboard
 - 🤖 AI-powered task prioritization
@@ -399,17 +399,17 @@ A comprehensive solution for modern teams with real-time collaboration, advanced
 ### 💼 Portfolio Ecosystem
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-**Interactive Digital Experience Hub**
+*Interactive Digital Experience Hub*
 
 Modern, responsive portfolio showcasing projects, skills, and professional journey with stunning animations.
 
-**🔧 Tech Stack:**
+*🔧 Tech Stack:*
 - ⚡ Next.js, Three.js, Framer Motion
 - 🎨 Tailwind CSS, GSAP
 - 🔄 GraphQL, Serverless
-- 🗄️ Supabase, PostgreSQL
+- 🗄 Supabase, PostgreSQL
 
-**✨ Key Features:**
+*✨ Key Features:*
 - 🎨 3D interactive animations
 - 📝 Dynamic blog with CMS
 - 🌐 Multi-language support
@@ -432,17 +432,17 @@ Modern, responsive portfolio showcasing projects, skills, and professional journ
 ### 🤖 AI Assistant Platform
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100%">
 
-**Intelligent Automation Suite**
+*Intelligent Automation Suite*
 
 AI-powered platform for natural language processing and intelligent automation.
 
-**🔧 Tech Stack:**
+*🔧 Tech Stack:*
 - 🧠 Python, TensorFlow, OpenAI
-- ⚛️ React, TypeScript, Chakra UI
+- ⚛ React, TypeScript, Chakra UI
 - ⚡ FastAPI, WebSockets
-- ☁️ Docker, Kubernetes, GCP
+- ☁ Docker, Kubernetes, GCP
 
-**✨ Key Features:**
+*✨ Key Features:*
 - 🧠 NLP capabilities
 - 🔍 Data analysis
 - 📈 Predictive analytics
@@ -461,17 +461,17 @@ AI-powered platform for natural language processing and intelligent automation.
 ### 📱 Mobile Apps
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
-**Cross-Platform Solutions**
+*Cross-Platform Solutions*
 
 Feature-rich mobile apps with native performance.
 
-**🔧 Tech Stack:**
+*🔧 Tech Stack:*
 - 📱 React Native, Flutter
 - 🔥 Firebase, Node.js
 - 🔄 Redux, MobX
 - 🧪 Jest, Detox
 
-**✨ Key Features:**
+*✨ Key Features:*
 - 📱 Native performance
 - 🔄 Offline sync
 - 🔔 Push notifications
@@ -552,13 +552,13 @@ Feature-rich mobile apps with native performance.
 ### ⚡ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-```text
+text
 JavaScript   15 hrs 42 mins  ████████████░░░░░░░░  48.2%
 TypeScript    8 hrs 25 mins  ███████░░░░░░░░░░░░░  25.8%
 Python        4 hrs 15 mins  ████░░░░░░░░░░░░░░░░  13.1%
 CSS           2 hrs 45 mins  ██░░░░░░░░░░░░░░░░░░   8.4%
 JSON          1 hr 30 mins   █░░░░░░░░░░░░░░░░░░░   4.5%
-```
+
 <!--END_SECTION:waka-->
 
 </div>
@@ -618,7 +618,7 @@ JSON          1 hr 30 mins   █░░░░░░░░░░░░░░░░
 
 </div>
 
-```javascript
+javascript
 const ashwini = {
     name: "Ashwini Jaiswal",
     title: "Full-Stack Developer & Creative Technologist",
@@ -667,7 +667,7 @@ const ashwini = {
 };
 
 console.log(ashwini.getInTouch());
-```
+
 
 <div align="center">
 
@@ -737,7 +737,7 @@ console.log(ashwini.getInTouch());
   <img src="https://skillicons.dev/icons?i=redux" width="65" height="65" alt="Redux" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙ Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
@@ -748,7 +748,7 @@ console.log(ashwini.getInTouch());
   <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="GraphQL" />
 </p>
 
-### 🗄️ Databases & Cloud
+### 🗄 Databases & Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
@@ -760,7 +760,7 @@ console.log(ashwini.getInTouch());
   <img src="https://skillicons.dev/icons?i=gcp" width="65" height="65" alt="Google Cloud" />
 </p>
 
-### 🛠️ DevOps & Tools
+### 🛠 DevOps & Tools
 
 <p>
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
@@ -797,25 +797,25 @@ console.log(ashwini.getInTouch());
 <tr>
 <td>
 
-**Frontend Development** 🎨  
+*Frontend Development* 🎨  
 ![](https://progress-bar.dev/95/?scale=100&title=Expert&width=400&color=00D9FF)
 
-**Backend Development** ⚙️  
+*Backend Development* ⚙  
 ![](https://progress-bar.dev/90/?scale=100&title=Expert&width=400&color=FF6B6B)
 
-**UI/UX Design** 🎭  
+*UI/UX Design* 🎭  
 ![](https://progress-bar.dev/88/?scale=100&title=Advanced&width=400&color=FFD700)
 
 </td>
 <td>
 
-**Database Management** 🗄️  
+*Database Management* 🗄  
 ![](https://progress-bar.dev/85/?scale=100&title=Advanced&width=400&color=00FF00)
 
-**Cloud & DevOps** ☁️  
+*Cloud & DevOps* ☁  
 ![](https://progress-bar.dev/80/?scale=100&title=Advanced&width=400&color=9C27B0)
 
-**Mobile Development** 📱  
+*Mobile Development* 📱  
 ![](https://progress-bar.dev/75/?scale=100&title=Intermediate&width=400&color=FF9800)
 
 </td>
@@ -940,17 +940,17 @@ console.log(ashwini.getInTouch());
 ### 🌟 [Team Blitz](https://teamblitz.netlify.app/)
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
 
-**Next-Generation Project Management Platform**
+*Next-Generation Project Management Platform*
 
 A comprehensive solution for modern teams with real-time collaboration, advanced analytics, and intelligent task management.
 
-**🔧 Tech Stack:**
-- ⚛️ React.js, Redux, Material-UI
+*🔧 Tech Stack:*
+- ⚛ React.js, Redux, Material-UI
 - 🟢 Node.js, Express.js, Socket.io
 - 🍃 MongoDB, Redis
-- ☁️ AWS, Docker, Nginx
+- ☁ AWS, Docker, Nginx
 
-**✨ Key Features:**
+*✨ Key Features:*
 - 🔄 Real-time collaboration & updates
 - 📊 Advanced analytics dashboard
 - 🤖 AI-powered task prioritization
@@ -972,17 +972,17 @@ A comprehensive solution for modern teams with real-time collaboration, advanced
 ### 💼 [Portfolio Ecosystem](https://ashwini-portfolio.dev)
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-**Interactive Digital Experience Hub**
+*Interactive Digital Experience Hub*
 
 Modern, responsive portfolio showcasing projects, skills, and professional journey with stunning animations and 3D elements.
 
-**🔧 Tech Stack:**
+*🔧 Tech Stack:*
 - ⚡ Next.js, Three.js, Framer Motion
 - 🎨 Tailwind CSS, GSAP
 - 🔄 GraphQL, Serverless Functions
-- 🗄️ Supabase, PostgreSQL
+- 🗄 Supabase, PostgreSQL
 
-**✨ Key Features:**
+*✨ Key Features:*
 - 🎨 3D interactive animations
 - 📝 Dynamic blog with CMS
 - 🌐 Multi-language support
@@ -1007,17 +1007,17 @@ Modern, responsive portfolio showcasing projects, skills, and professional journ
 ### 🤖 AI Assistant Platform
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100%">
 
-**Intelligent Automation Suite**
+*Intelligent Automation Suite*
 
 AI-powered platform for natural language processing, data analysis, and intelligent automation with real-time processing.
 
-**🔧 Tech Stack:**
+*🔧 Tech Stack:*
 - 🧠 Python, TensorFlow, OpenAI API
-- ⚛️ React, TypeScript, Chakra UI
+- ⚛ React, TypeScript, Chakra UI
 - ⚡ FastAPI, WebSockets
-- ☁️ Docker, Kubernetes, GCP
+- ☁ Docker, Kubernetes, GCP
 
-**✨ Key Features:**
+*✨ Key Features:*
 - 🧠 Natural language processing
 - 🔍 Intelligent data analysis
 - 📈 Predictive analytics
@@ -1036,17 +1036,17 @@ AI-powered platform for natural language processing, data analysis, and intellig
 ### 📱 Mobile Ecosystem
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
 
-**Cross-Platform Mobile Solutions**
+*Cross-Platform Mobile Solutions*
 
 Feature-rich mobile applications with native performance, offline capabilities, and seamless synchronization.
 
-**🔧 Tech Stack:**
+*🔧 Tech Stack:*
 - 📱 React Native, Flutter, Expo
 - 🔥 Firebase, Node.js, GraphQL
 - 🔄 Redux, MobX, Provider
 - 🧪 Jest, Detox, Appium
 
-**✨ Key Features:**
+*✨ Key Features:*
 - 📱 Native performance
 - 🔄 Offline synchronization
 - 🔔 Push notifications

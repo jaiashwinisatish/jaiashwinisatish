@@ -8,18 +8,17 @@ Building the Future, One Line of Code at a Time
 <!-- Dynamic Header with Gradient Animation -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=ASHWINI%20JAISWAL&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI/UX%20Designer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=20)
 
+
+
 <!-- Matrix Rain Effect -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Advanced Multi-Line Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=140&lines=%F0%9F%9A%80+Full-Stack+Developer+%7C+Coding+Wizard+%E2%9A%A1;%F0%9F%8E%A8+UI%2FUX+Designer+%7C+Creative+Thinker+%F0%9F%8E%AF;%F0%9F%92%A1+Problem+Solver+%7C+Innovation+Catalyst+%F0%9F%8C%9F;%F0%9F%94%A5+Open+Source+Contributor+%7C+Team+Player+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
-<!-- Enhanced Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaiashwinisatish/jaiashwinisatish/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaiashwinisatish/jaiashwinisatish/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jaiashwinisatish/jaiashwinisatish/output/github-contribution-grid-snake.svg">
-</picture>
+
+
+
 
 <br>
 

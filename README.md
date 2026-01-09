@@ -122,6 +122,7 @@ Building the Future, One Line of Code at a Time
 <!-- Animated Activity Indicators -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
+
 ### 🔥 Current Activities & Focus
 
 <table>
@@ -161,7 +162,6 @@ Building the Future, One Line of Code at a Time
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
 
 ### ⚡ Programming Languages
 
@@ -239,6 +239,11 @@ Building the Future, One Line of Code at a Time
 </p>
 
 <!-- Skill Progress Bars with Animation -->
+
+ye me tech stack ke nichhe dal rahu hu 
+isako aur imformative banao 
+isame aur chije dalo
+
 ### 📊 Skill Proficiency Matrix
 
 <table>
@@ -269,8 +274,50 @@ Building the Future, One Line of Code at a Time
 </td>
 </tr>
 </table>
-
 </div>
+
+<div align="center">
+<!-- animated typing line -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1200&color=36BCF7&center=true&vCenter=true&width=500&lines=Real+projects.+Real+skills.;Design-driven+Full+Stack+Engineering" />
+</div>
+
+
+---
+
+## 🚀 Engineering Practices
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**System Design & Architecture**  
+![](https://progress-bar.dev/78/?scale=100&title=Growing&width=400&color=3F51B5)  
+<sub>Scalable APIs, modular architecture</sub>
+
+<br/>
+
+**Performance Optimization**  
+![](https://progress-bar.dev/82/?scale=100&title=Advanced&width=400&color=4CAF50)  
+<sub>Lazy loading, caching, DB indexing</sub>
+
+</td>
+
+<td width="50%" valign="top">
+
+**Testing & Debugging**  
+![](https://progress-bar.dev/75/?scale=100&title=Intermediate&width=400&color=FF5722)  
+<sub>Unit testing, API testing, debugging</sub>
+
+<br/>
+
+**Security Awareness**  
+![](https://progress-bar.dev/70/?scale=100&title=Intermediate&width=400&color=607D8B)  
+<sub>Authentication, authorization, data protection basics</sub>
+
+</td>
+</tr>
+</table>
+
 
 <!-- Animated Divider -->
 <div align="center">

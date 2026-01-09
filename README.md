@@ -63,20 +63,15 @@ Building the Future, One Line of Code at a Time
 ---
 
 ## 👋 About Me
+<div align="center"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320" alt="girl coder animation" /> </div> <p align="center"> I’m a <b>Full-Stack Developer</b> passionate about building<br/> <b>scalable, elegant & user-focused web applications</b><br/> where clean code meets thoughtful design ✨ </p>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-
-</div>
-
-javascript
-const ashwini = {
-    name: "Ashwini Jaiswal",
-    title: "Full-Stack Developer & Creative Technologist",
-    location: "India 🇮🇳",
-    education: "Computer Science Student",
-    pronouns: "She/Her",
+     ashwini :{
+          name: "Ashwini Jaiswal",
+          title: "Full-Stack Developer & Creative Technologist",
+          location: "India 🇮🇳",
+          education: "Computer Science Student",
+          pronouns: "She/Her",
+    },
     
     code: {
         languages: ["JavaScript", "TypeScript", "Python", "Java", "C++"],

@@ -110,10 +110,10 @@ Building the Future, One Line of Code at a Time
     
     getInTouch: function() {
         return "Let's build something amazing together! 🚀";
-    }
+        }
+        console.log(ashwini.getInTouch());
 };
 
-console.log(ashwini.getInTouch());
 
 
 <div align="center">

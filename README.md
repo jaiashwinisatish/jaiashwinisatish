@@ -334,20 +334,25 @@ isame aur chije dalo
 
 ### 🔥 GitHub Stats & Analytics
 
-<table>
-<tr>
-<td>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=jaiashwinisatish&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&custom_title=⚡%20GitHub%20Stats"/>
-</td>
-<td>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiashwinisatish&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&custom_title=🚀%20Most%20Used%20Languages"/>
-</td>
-</tr>
-</table>
+![Profile Views](https://komarev.com/ghpvc/?username=jaiashwinisatish&label=Profile%20Views&color=red&style=flat)
+
+![GitHub followers](https://img.shields.io/github/followers/jaiashwinisatish?label=Followers&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/jaiashwinisatish?label=Stars&style=for-the-badge)
+
+![Repos](https://img.shields.io/badge/Public%20Repos-✔-brightgreen)
+![Commits](https://img.shields.io/badge/Active%20Developer-Yes-blue)
+
+
 
 ### 🏆 GitHub Streak Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiashwinisatish&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF" alt="GitHub Streak"/>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jaiashwinisatish&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
 
 ### 📈 Contribution Activity Graph
 

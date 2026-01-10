@@ -332,15 +332,27 @@ isame aur chije dalo
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
 
-### 🔥 GitHub Stats & Analytics
+## 🔥 GitHub Stats & Analytics
 
-![Profile Views](https://komarev.com/ghpvc/?username=jaiashwinisatish&label=Profile%20Views&color=red&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaiashwinisatish&label=Profile%20Views&color=ff4d4d&style=for-the-badge" />
+</p>
 
-![GitHub followers](https://img.shields.io/github/followers/jaiashwinisatish?label=Followers&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/jaiashwinisatish?label=Stars&style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/jaiashwinisatish?label=Followers&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/stars/jaiashwinisatish?label=Total%20Stars&style=for-the-badge&color=yellow" />
+</p>
 
-![Repos](https://img.shields.io/badge/Public%20Repos-✔-brightgreen)
-![Commits](https://img.shields.io/badge/Active%20Developer-Yes-blue)
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repos-Active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Developer%20Status-Highly%20Active-blue?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hackathon-Participant-red?style=for-the-badge" />
+</p>
+
 
 
 

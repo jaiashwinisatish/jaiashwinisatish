@@ -359,75 +359,33 @@ isame aur chije dalo
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiashwinisatish&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Contribution Graph"/>
 
-<!-- ================= PROFILE SUMMARY ================= -->
-
 ### 🎯 Profile Summary
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiashwinisatish&theme=radical"
-    alt="Profile Summary"
-  />
-</p>
+- 👤 **Username:** jaiashwinisatish  
+- 💻 **Role:** Full Stack / Cybersecurity Enthusiast  
+- 🌱 **Currently Learning:** AI Tools, Cloud & DevOps  
+- 🚀 **Hackathon & Open Source Contributor**
 
 ---
 
-<!-- ================= GITHUB TROPHIES ================= -->
+### 🏅 GitHub Overview
 
-### 🏅 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=jaiashwinisatish&theme=radical&no-frame=true&margin-w=10"
-    alt="GitHub Trophies"
-  />
-</p>
+![Followers](https://img.shields.io/github/followers/jaiashwinisatish?label=Followers&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/jaiashwinisatish?label=Total%20Stars&style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-Active-success?style=for-the-badge)
 
 ---
 
-<!-- ================= DETAILED STATISTICS ================= -->
+### 📊 Activity Status
 
-### 📊 Detailed Statistics
+![Profile Views](https://komarev.com/ghpvc/?username=jaiashwinisatish&label=Profile%20Views&color=red&style=flat)
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiashwinisatish&theme=radical"
-    alt="Repos per Language"
-  />
-  <img
-    height="165"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiashwinisatish&theme=radical"
-    alt="Most Commit Language"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiashwinisatish&theme=radical"
-    alt="Stats"
-  />
-  <img
-    height="165"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaiashwinisatish&theme=radical&utcOffset=5.5"
-    alt="Productive Time"
-  />
-</p>
 
 ---
 
-<!-- ================= ANIMATED DIVIDER ================= -->
-
 <p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
-    width="100%"
-    alt="Animated Divider"
-  />
+  <b>⚡ Always building • Always learning • Always improving</b>
 </p>
-
----
 
 ## 🏆 Featured Projects
 

@@ -47,7 +47,7 @@ Building the Future, One Line of Code at a Time
   <a href="http://linkedin.com/in/ashwini-jaiswal-095165282">
     <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://teamblitz.netlify.app/">
+  <a href="https://portfolio-eight-ochre-52.vercel.app/">
     <img src="https://img.shields.io/badge/🚀%20Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/jaiashwinisatish">

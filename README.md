@@ -596,13 +596,4 @@ Feature-rich mobile apps with native performance.
 
 [![Spotify](https://spotifygit.vercel.app/api/spotify)](https://open.spotify.com/user/31tpqnoarhpaxxz7226elu4w4muy)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Muneerali199&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Muneerali199" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Muneerali199&theme=radical&hide_border=true" alt="Muneerali199" />
-    </td>
-  </tr>
-</table>
+

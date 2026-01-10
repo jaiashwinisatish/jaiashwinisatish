@@ -547,11 +547,26 @@ Feature-rich mobile apps with native performance.
 
 ---
 
-## 🎯 Goals & Roadmap 2024-2025
+## 🎯 Goals & Roadmap 2025-2026
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284201-4a7bb4d4-6b92-4d4a-bc4e-8c5b2c7b9f5a.gif" width="400">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284230-b6c93f90-2b63-4c5f-9c7b-1a62b6b6f84a.gif" width="400">
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284263-2a4f2a19-9f66-4b5c-8e76-33f49e9bbf3f.gif" width="400">
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284295-1a7b7b4e-3c8d-4f6a-8f2a-3b6a0f9a4c3d.gif" width="400">
+</div>
+
 
 <table>
 <tr>

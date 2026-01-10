@@ -359,41 +359,73 @@ isame aur chije dalo
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiashwinisatish&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" alt="Contribution Graph"/>
 
+<!-- ================= PROFILE SUMMARY ================= -->
+
 ### 🎯 Profile Summary
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiashwinisatish&theme=radical" alt="Profile Summary"/>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiashwinisatish&theme=radical"
+    alt="Profile Summary"
+  />
+</p>
+
+---
+
+<!-- ================= GITHUB TROPHIES ================= -->
 
 ### 🏅 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=jaiashwinisatish&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" alt="GitHub Trophies"/>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=jaiashwinisatish&theme=radical&no-frame=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+<!-- ================= DETAILED STATISTICS ================= -->
 
 ### 📊 Detailed Statistics
 
-<table>
-<tr>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiashwinisatish&theme=radical" alt="Repos per Language"/>
-</td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiashwinisatish&theme=radical" alt="Most Commit Language"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiashwinisatish&theme=radical" alt="Stats"/>
-</td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaiashwinisatish&theme=radical&utcOffset=5.5" alt="Productive Time"/>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiashwinisatish&theme=radical"
+    alt="Repos per Language"
+  />
+  <img
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiashwinisatish&theme=radical"
+    alt="Most Commit Language"
+  />
+</p>
 
-</div>
+<p align="center">
+  <img
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiashwinisatish&theme=radical"
+    alt="Stats"
+  />
+  <img
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaiashwinisatish&theme=radical&utcOffset=5.5"
+    alt="Productive Time"
+  />
+</p>
 
-<!-- Animated Divider -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
+---
+
+<!-- ================= ANIMATED DIVIDER ================= -->
+
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
+    width="100%"
+    alt="Animated Divider"
+  />
+</p>
 
 ---
 

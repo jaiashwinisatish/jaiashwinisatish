@@ -6,7 +6,7 @@ Building the Future, One Line of Code at a Time
 <div align="center">
 
 <!-- Dynamic Header with Gradient Animation -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=ASHWINI%20JAISWAL&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MI/ML%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=ASHWINI%20JAISWAL&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI/ML%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=20)
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=🚀+Welcome+to+my+Dev+Universe!;💻+Full+Stack+Web+Developer;⚙️+Frontend+%7C+Backend+%7C+APIs;🧠+SaaS+%26+AI+Powered+Applications;⚡+Turning+Ideas+into+Scalable+Products" />

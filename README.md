@@ -547,7 +547,7 @@ Feature-rich mobile apps with native performance.
 
 ---
 
-## 🎯 Goals & Roadmap 2025-2026
+##  Goals & Roadmap 2025-2026 🎯
 
 <table>
 <tr>
